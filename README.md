@@ -4,7 +4,7 @@
 </div>
 <div id="socials" align="center">
 	<a href="https://t.me/NorthernAvenue">
-		<img src="\css\icons8-телеграмма-app-256.png" alt="Telegram"/> 
+		<img src="https://ru.freepik.com/free-vector/telegram-icon_3327555.htm#query=%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B8%20telegram&position=5&from_view=keyword" alt="Telegram"/> 
 	</a>
 </div>
 
