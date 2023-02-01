@@ -3,7 +3,7 @@
 	<h3>A student of the international educational platform GeekBrains.</h3>
 </div>
 <div id="socials" align="center">
-	<a href="telegram-url">
+	<a href="https://t.me/NorthernAvenue">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram"/>
 	</a>
 </div>
