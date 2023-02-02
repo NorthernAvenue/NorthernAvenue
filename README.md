@@ -4,7 +4,7 @@
 </div>
 <div id="socials" align="center">
 	<a href="https://t.me/NorthernAvenue">
-		<img src="https://badgen.net/badge/icon/telegram?icon=Telegram&label=Telegram" alt="NorthernAvenue"/>
+		<img src="https://badgen.net/badge/icon/Telegram?icon=Telegram&label=NorthernAvenue" alt="Telegram"/>
 	</a>
 </div>
 
