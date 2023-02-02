@@ -9,5 +9,5 @@
 </div>
 
 ### About me
-<p> - 📫 Reach me by [:email:] <a href="mailto:excusemegod@gmail.com"></a></p>
+<p> - 📫 Reach me by [:email:] <a href="mailto:excusemegod@gmail.com">excusemegod@gmail.com</a></p>
 
