@@ -9,4 +9,4 @@
 </div>
 
 ### About me
-- 📫 Reach me by [:email:](excusemegod@gmail.com)
+- 📫 Reach me by [:email:](<a href="mailto:excusemegod@gmail.com">excusemegod@gmail.com</a>)
